@@ -1,10 +1,2 @@
- El volumen de la unidad C no tiene etiqueta.
- El n£mero de serie del volumen es: 600C-6050
+change+
 
- Directorio de C:\Trabajo Testing
-
-17/06/2017  23:23    <DIR>          .
-17/06/2017  23:23    <DIR>          ..
-17/06/2017  23:23                 0 text1.txt
-               1 archivos              0 bytes
-               2 dirs  479.724.810.240 bytes libres
